@@ -1,0 +1,11 @@
+{
+    "name": "ts160876/composer-demo-1",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thorsten Schneider",
+            "email": "mr.thorsten.schneider@outlook.com"
+        }
+    ],
+    "require": {}
+}
